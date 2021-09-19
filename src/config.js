@@ -10,9 +10,9 @@ module.exports = {
         }
     },
     social: {
-        linkedin: 'https://www.linkedin.com/in/muhammad-sharjeel-7a540a1b7/',
+        linkedin: 'muhammad-sharjeel-7a540a1b7',
         
-        facebook: 'https://www.facebook.com/muhammad.abdulsharjeel/',
+        facebook: 'muhammad.abdulsharjeel',
         dribbble: '',
         behance: '',
         medium: '',
