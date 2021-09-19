@@ -33,7 +33,7 @@ module.exports = {
         'Tailwind',
         'Bootstrap',
     ],
-    ,
+    
     education: [
         { 
             institution: 'University of karachi',
