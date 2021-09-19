@@ -54,7 +54,7 @@ module.exports = {
             to: '2016'
         }
     ],
-    ,
+    
   
     themeConfig: {
         default: 'light',
