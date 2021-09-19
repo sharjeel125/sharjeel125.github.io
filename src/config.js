@@ -26,7 +26,7 @@ module.exports = {
         'JavaScript',
         'React.js',
         'Node.js',
-        'Jquery',
+        
         'NoSQL',
         'Git',
         'CSS',
