@@ -10,14 +10,14 @@ module.exports = {
         }
     },
     social: {
-        linkedin: 'ariful-alam',
-        twitter: 'arif_swozon',
+        linkedin: '',
+        twitter: '',
         facebook: '',
         dribbble: '',
         behance: '',
         medium: '',
         devto: '',
-        website: 'https://arifszn.github.io',
+        website: '',
         phone: '',
         email: ''
     },
@@ -32,7 +32,7 @@ module.exports = {
         'MySQL',
         'Git',
         'CSS',
-        'Antd',
+        
         'Tailwind',
         'Bootstrap',
     ],
