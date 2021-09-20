@@ -10,29 +10,31 @@ module.exports = {
         }
     },
     social: {
-        linkedin: '',
+        linkedin: 'muhammad-sharjeel-7a540a1b7',
         twitter: '',
-        facebook: '',
+        facebook: 'muhammad.abdulsharjeel',
         dribbble: '',
         behance: '',
         medium: '',
         devto: '',
         website: '',
-        phone: '',
-        email: ''
+        phone: '03318932524',
+        email: 'sharjeelwaheed125@gmail.com'
     },
     skills: [
-        'PHP',
-        'Laravel',
+        
+        
         'JavaScript',
         'React.js',
         'Vue.js',
         'Node.js',
+        'Express.js',
         'Jquery',
-        'MySQL',
+        'NoSQL',
+        'Firebase',
         'Git',
         'CSS',
-        
+        'Material UI',
         'Tailwind',
         'Bootstrap',
     ],
