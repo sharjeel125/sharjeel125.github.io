@@ -17,7 +17,7 @@ module.exports = {
         behance: '',
         medium: '',
         devto: '',
-        website: '',
+        website: 'https://portfolioreact.surge.sh',
         phone: '03318932524',
         email: 'sharjeelwaheed125@gmail.com'
     },
